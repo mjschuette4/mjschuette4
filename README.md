@@ -6,5 +6,5 @@
 
 ### Connect with me: 
   
-[twitter]: https://twitter.com/Joseph_Schuette
-[linkedin]: https://www.linkedin.com/in/matthew-schuette/
+- Twitter: https://twitter.com/Joseph_Schuette 
+- Linkedin: https://www.linkedin.com/in/matthew-schuette/
